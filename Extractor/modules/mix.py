@@ -262,7 +262,7 @@ async def v2_new(app, message, token, userid, hdr1, app_name, raw_text2, api_bas
                 f"📊 𝗙𝗶𝗻𝗮𝗹 𝗦𝘁𝗮𝘁𝘂𝘀:\n"
                 f"📚 Processed: {total_items} items\n"
                 f"📤 File has been uploaded\n\n"
-                f"Thank you for using -:𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®:-🌟"
+                f"Thank you for using -:Sᴘᴀʀᴋ :-🌟"
             )
 
     except Exception as e:
