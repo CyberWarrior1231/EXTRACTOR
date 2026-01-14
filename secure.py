@@ -40,7 +40,7 @@ def encrypt_code(source_code):
         encoded = base64.b85encode(zlib.compress(source_code.encode())).decode()
         
         encrypted_code = f'''
-# Encrypted by @ITsGOLU_OFFICIAL
+# Encrypted by Sᴘᴀʀᴋ ♨
 import base64
 import zlib
 import codecs
