@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","dbd8f5af56b0f6e16327c20a84eece99")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
-BOT_TEXT = ":𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®:"
+BOT_TEXT = "श्री कृष्णा 🦚"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "8327651421"))
 # ------------------------------------------------
@@ -18,7 +18,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "8327651421"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003559777690"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003559777690")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003689436454")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://fibegi:8oV4fjNNVasSfcoY@cluster0.jp8thup.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
